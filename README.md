@@ -2,13 +2,13 @@
 Brief analysis, exploration, and modeling of an airbnb dataset from San Francisco (October 2020)
 
 The libraries we used are : 
-Matplotlib
-Seaborn 
-Pandas
-NumPy
-SciPy
-Sklearn 
-Xgboost
+Matplotlib,
+Seaborn, 
+Pandas,
+NumPy,
+SciPy,
+Sklearn, 
+Xgboost.
 
 
 The motivation for the project was:
@@ -16,7 +16,8 @@ The motivation was because I wanted to put in practice my knowledge that I've le
 curiosity and passion were my drivers to work with data and explore them and propose insights of my findings. 
 
 The files in the repository are:
-lisitngs file, where the information with information about hosts, neighborhood, availability per room, characteristics of rooms, 
+
+Lisitngs file, where the information with information about hosts, neighborhood, availability per room, characteristics of rooms, 
 ids, description of rentals, reviews among others. With 74 variables and 7087 observations. 
 
 Summary of the results of the analysis:
