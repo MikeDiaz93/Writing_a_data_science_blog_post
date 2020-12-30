@@ -1,6 +1,8 @@
 # Writing_a_data_science_blog_post
 Brief analysis, exploration, and modeling of an airbnb dataset from San Francisco (October 2020)
 
+
+
 The libraries we used are : 
 Matplotlib,
 Seaborn, 
@@ -11,14 +13,19 @@ Sklearn,
 Xgboost.
 
 
+
 The motivation for the project was:
 The motivation was because I wanted to put in practice my knowledge that I've learned during the Data Science Nano Degree program. I mean
 curiosity and passion were my drivers to work with data and explore them and propose insights of my findings. 
+
+
 
 The files in the repository are:
 
 Lisitngs file, where the information with information about hosts, neighborhood, availability per room, characteristics of rooms, 
 ids, description of rentals, reviews among others. With 74 variables and 7087 observations. 
+
+
 
 Summary of the results of the analysis:
  
@@ -48,6 +55,7 @@ The r2 score and RMSE for the Test say us that as they are higher than the r2 sc
 
 The top 10 most important vairbales, for explianing the regression models are: reviews_per_month, availability_365, number_of_reviews, review_scores_rating,
 maximum_nights, availability_90, bedrooms, availability_30, availability_60, maximum_maximum_nights
+
 
 
 Necessary acknowledgements:
