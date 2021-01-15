@@ -60,5 +60,5 @@ maximum_nights, availability_90, bedrooms, availability_30, availability_60, max
 
 Necessary acknowledgements:
 
-It's important to consider many datasets or resources in order to extract valuble information. With a dataset with this proportions (7087,74) sometimes 
-it's difficult to get a deep insight of a complex world. 
+It's important to consider many more datasets or resources in order to extract valuble information. With a dataset with this proportions (7087,74) sometimes 
+it's difficult to get a deep insight. 
